@@ -1,0 +1,10 @@
+{
+  "original": {
+    "disease_auroc": 0.7560533333333335,
+    "protected_probe_auroc": 0.8734083802376484
+  },
+  "residualized": {
+    "disease_auroc": 0.7502333333333333,
+    "protected_probe_auroc": 0.5346841776110068
+  }
+}
